@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Keshav R 👋
 
-<!--
-**Keshav-R4/Keshav-R4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE Student @ RV University**
 
-Here are some ideas to get you started:
+💻 Learning **C, C++, Python & Web Development**  
+🚀 Exploring **Software Development & AI/ML**  
+🏏 Passionate about **Technology, Sports & Entrepreneurship**  
+💼 Aspiring to **build products, businesses and real-world solutions**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- C
+- C++
+- Python
+- HTML
+- CSS
+- Git & GitHub
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Web Development
+- Python
+- Software Development
+- AI/ML
+
+## 🏆 Beyond Coding
+
+- 🏐 Sports & Fitness
+- 💡 Entrepreneurship & Business
+- 🚀 Building new ideas
+- 🌍 Exploring new places
+- 🤝 Teamwork & Leadership
+
+## 🎯 My Goals
+
+- Build real-world software projects
+- Become a strong software developer
+- Participate in hackathons
+- Explore AI/ML
+- Build my own business someday
+- Keep growing both technically and personally
+
+---
+
+## 📌 Current Focus
+
+> **Learn → Build → Experiment → Improve**
+
+I'm currently building my foundation in computer science while exploring
+technology, entrepreneurship and different ideas that could become real-world
+businesses.
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: [Keshav-R41](https://github.com/Keshav-R41)
+
+---
+
+⭐ Always learning. Always building.
